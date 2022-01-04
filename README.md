@@ -2,7 +2,8 @@
 
 > Simple view on the project
 
-![screenshot](./app_screenshot_microverse.png)
+![screenshot](./asset/app_screenshot_microverse.png)!
+
 
 In this project, we are setting up a "Hello world" repository with the use of only Html and Css in order to apply what we learnt during this day into Microverse.
 
